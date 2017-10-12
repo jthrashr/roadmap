@@ -71,7 +71,7 @@ h2 {
 }
 
 .roadmap-banner h1 {
-    background-image:url('/wp-content/themes/ambiance-pro/Roadmap/images/Asphalt.png');
+    background-image:url(images/Asphalt.png');
     background-repeat:repeat;
     background-position:0 -170px;
     color:#fff;
@@ -1153,7 +1153,7 @@ h1 {
   }
 
   .roadmap-banner h1 {
-    background-image:url('/wp-content/themes/ambiance-pro/Roadmap/images/Asphalt.png');
+    background-image:url('images/Asphalt.png');
     background-repeat:repeat;
     background-position:0 -170px;
     color:#fff;
